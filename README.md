@@ -1,9 +1,9 @@
-# 🛠️ PROJECT TITLE: [INSERT YOUR CREATIVE TITLE HERE]
+# 🛠️ PROJECT TITLE: [E-CIVIL CANTEEN INITIATIVE]
 
 ## Idea Abstract
 
 **[INSERT CONCISE 2-3 SENTENCE SUMMARY HERE]**
-*Example: Our solution is a simple, real-time ordering system built for the Civil Canteen using Firebase. It provides students with a seamless ordering interface and gives staff immediate order verification tools.*
+*Example: My initiative is to create an e-civil canteen with membership payment. It also involves parttime jobs for students . It also empowers the non-malayali community of CET.*
 
 ---
 
@@ -11,8 +11,8 @@
 
 | Role | Name | GitHub Profile |
 | :--- | :--- | :--- |
-| **Team Member 1** | [Your Full Name Here] | [@YourGitHubUsername](link to your GitHub profile) |
-| **Team Member 2** | [Your Partner's Full Name Here] | [@PartnerGitHubUsername](link to partner's GitHub profile) |
+| **Team Member 1** | [MALAVIKA P NAIR] | [@MalavikaPrakash05](https://github.com/MalavikaPrakash05/sample.git) |
+
 
 ---
 
@@ -34,7 +34,7 @@ The following core features were successfully implemented and are showcased in t
 
 The link below leads to our mandatory video presentation, which is **not longer than 5 minutes**.
 
-➡️ **YouTube Video Link:** **[INSERT YOUR PUBLIC YOUTUBE LINK HERE]**
+➡️ **YouTube Video Link:** **[https://youtu.be/c3BzerSdlPQ?si=G60vfNpoiWa_Etoo]**
 
 ### 2. Live Deployment (If Applicable)
 
